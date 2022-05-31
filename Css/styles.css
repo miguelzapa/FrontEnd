@@ -1,0 +1,24 @@
+#cuerpo {width: 'center'; }
+
+.cabecera {background:rgb(228, 222, 222)}
+
+.titulo {font-size: 58px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(7, 84, 143);
+    background-color: rgb(182, 179, 179);}
+
+.sub {font-size: 38px;
+    font-family: 'Times New Roman', Times, serif;;
+    color: rgb(7, 84, 143);
+    background-color: rgb(182, 179, 179);}
+
+.datos {font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    
+    li {font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    }
+
+.pie {font-size: 45px;
+    background-color: rgb(70, 88, 149);}
